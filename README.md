@@ -32,6 +32,12 @@ Output
 - LinkedIn: [@silviatofana](www.linkedin.com/in/silvia-tofana-10b852186)
 - Twitter: [@silviatofana](https://twitter.com/SilviaTofana)
 
+👤 ** Maen Al-Khraisha **
+
+- GitHub: [@githubhandle](https://github.com/maen1980)
+- Twitter: [@twitterhandle](https://twitter.com/AlkhryshaM)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ma-en-mohammad-303930100/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!

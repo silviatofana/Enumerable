@@ -9,10 +9,10 @@ class MyList
   end
 end
 
-# list = MyList.new([1, 2, 3, 4])
+list = MyList.new([1, 2, 3, 4])
 
-# p list.any? { |num| num >= 3 }
+p list.any? { |num| num >= 3 }
 
-# p list.all? { |num| num <= 3 }
+p list.all? { |num| num <= 3 }
 
-# p list.filter { |num| num.even? }
+p list.filter { |num| num.even? }
